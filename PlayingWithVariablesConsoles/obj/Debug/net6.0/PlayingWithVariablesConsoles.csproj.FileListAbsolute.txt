@@ -1,0 +1,15 @@
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.csproj.AssemblyReference.cache
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.AssemblyInfoInputs.cache
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.AssemblyInfo.cs
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.csproj.CoreCompileInputs.cache
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\bin\Debug\net6.0\PlayingWithVariablesConsoles.exe
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\bin\Debug\net6.0\PlayingWithVariablesConsoles.deps.json
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\bin\Debug\net6.0\PlayingWithVariablesConsoles.runtimeconfig.json
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\bin\Debug\net6.0\PlayingWithVariablesConsoles.dll
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\bin\Debug\net6.0\PlayingWithVariablesConsoles.pdb
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.dll
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\refint\PlayingWithVariablesConsoles.dll
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.pdb
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\PlayingWithVariablesConsoles.genruntimeconfig.cache
+C:\Users\dfish\source\repos\PlayingWithVariablesConsoles\PlayingWithVariablesConsoles\obj\Debug\net6.0\ref\PlayingWithVariablesConsoles.dll
